@@ -1,0 +1,28 @@
+body {
+    background-color:#FAFAFA;
+}
+
+.box{
+    background-color: white;
+    margin-top: 7.5%;
+    margin-bottom: 7.5%;
+    margin-right: 10%;
+}
+
+.logo{
+    max-width: 300px;
+}
+
+.btn{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+footer{
+    font-size: 12px;
+    color: #585858
+}
+
+a{
+    text-decoration: none;
+}
